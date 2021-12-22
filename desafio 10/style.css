@@ -68,6 +68,8 @@ header p {
 nav {
     background-color: #ABB7E0;
     padding: 10px;
+    display: flex;
+    justify-content: center;
 }
 
 nav a {
